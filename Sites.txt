@@ -1,0 +1,2 @@
+Rendering paths :
+https://docs.unity3d.com/Manual/RenderingPaths.html
